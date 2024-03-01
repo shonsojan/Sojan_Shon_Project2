@@ -1,0 +1,67 @@
+img, embed, object, video, picture {
+    max-width: 100%; 
+  }
+  
+  html {
+    box-sizing: border-box; 
+  }
+  
+  *, *::before, *::after {
+    box-sizing: inherit; 
+  }
+  
+
+
+  body, p, h1, h2, h3, h4, h5 {
+    font-family:Arial, Helvetica, sans-serif;
+     margin: 0px; 
+     padding: 0px;
+  }
+
+
+  
+  .hidden {
+     display: none;
+  }
+  
+  .box1 {
+     background-color: rgb(255, 204, 0);
+     color: rgb(27, 27, 27);
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom:10px;
+     height: 55px;
+     line-height: 55px
+   }
+
+   .box2 {
+    background-color: rgb(255, 204, 0);
+    color: rgb(27, 27, 27);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+    height: 260px;
+    line-height: 260px;
+  }
+
+  .box3 {
+    background-color: rgb(255, 204, 0);
+    color: rgb(27, 27, 27);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+    height: 160px;
+    line-height: 160px;
+  }
+
+  .box4 {
+    background-color: rgb(255, 204, 0);
+    color: rgb(27, 27, 27);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+    height: 290px;
+    line-height:290px;
+  }
+
+

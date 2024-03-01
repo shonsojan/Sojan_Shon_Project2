@@ -1,0 +1,1 @@
+This folder contains all css files such as main.css and grid.css
